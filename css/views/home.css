@@ -1,0 +1,74 @@
+#home section{
+	width: 100%;
+	height: 600px;
+	padding: 0;
+	margin: 0;
+}
+#home section h1{
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	font-size: 72px;
+	margin-bottom: 50px;
+}
+
+#home section article{
+	width: 31%;
+	height: 400px;
+	float: left;
+	padding-left: 2%;
+}
+
+#home section article img{
+	width: 90%;
+	height: 300px;
+	box-shadow: 10px 5px black;
+}
+
+#home section article p{
+	margin-right: auto;
+	margin-left: 40px;
+	width: 80%;
+}
+
+#home section + section{
+	width: 100%;
+	height: 450px;
+}
+
+#home section + section iframe{
+	float: left;
+	margin-left: 100px;
+
+}
+
+#home section + section h3{
+	float: left;
+	text-align: center;
+	width: 59.5%;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 40px;
+}
+
+#home section + section form{
+	width: 59.5%;
+	float: left;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+#home section + section form p{
+	width: 100%;
+	font-size: 24px;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+
+}
+
+#home section + section form input{
+	box-shadow: 5px 3px black;
+}
